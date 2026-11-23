@@ -8,6 +8,7 @@
 
 ![架构示意图](figure/figure2.png)
 
+
 The official results in the paper:
 
 <table>
@@ -16,7 +17,7 @@ The official results in the paper:
       <th rowspan="2" align="center">Models</th>
       <th colspan="3" align="center">Test, AP<sub>3D|R40</sub></th>
       <th colspan="3" align="center">Test, AP<sub>BEV|R40</sub></th>
-      <th rowspan="2" align="center">Checkpoint</th>
+      <th colspan="2" align="center">Checkpoint</th>
     </tr>
     <tr>
       <th align="center">Easy</th>
@@ -25,6 +26,8 @@ The official results in the paper:
       <th align="center">Easy</th>
       <th align="center">Mod.</th>
       <th align="center">Hard</th>
+      <th align="center">Stage1</th>
+      <th align="center">Stage2</th>
     </tr>
   </thead>
   <tbody>
@@ -36,7 +39,8 @@ The official results in the paper:
       <td align="center">32.63%</td>
       <td align="center">21.54%</td>
       <td align="center">19.03%</td>
-      <td align="center"><a href="https://pan.baidu.com/s/1au9_-rJdZTFczhOUUzHN5w?pwd=ywi9">model</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1bi9EPukEAg3G_4W8x4ahGQ?pwd=d7bu">WERN</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1au9_-rJdZTFczhOUUzHN5w?pwd=ywi9">ReWave+MonoDLGD</a></td>
     </tr>
   </tbody>
 </table>
