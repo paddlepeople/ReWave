@@ -9,6 +9,41 @@
 ![架构示意图](figure/figure2.png)
 ![KITTI结果](figure/ReWave_MonoDLGD.png)
 
+The official results in the paper:
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2" align="center">Models</th>
+      <th colspan="3" align="center">Val, AP<sub>3D|R40</sub></th>
+      <th colspan="3" align="center">Test, AP<sub>3D|R40</sub></th>
+      <th rowspan="2" align="center">Log</th>
+      <th rowspan="2" align="center">Checkpoint</th>
+    </tr>
+    <tr>
+      <th align="center">Easy</th>
+      <th align="center">Mod.</th>
+      <th align="center">Hard</th>
+      <th align="center">Easy</th>
+      <th align="center">Mod.</th>
+      <th align="center">Hard</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">MonoDGP</td>
+      <td align="center">30.7624%</td>
+      <td align="center">22.3421%</td>
+      <td align="center">19.0144%</td>
+      <td align="center">26.35%</td>
+      <td align="center">18.72%</td>
+      <td align="center">15.97%</td>
+      <td align="center"><a href="logs/train.log">log</a></td>
+      <td align="center"><a href="https://drive.google.com/你的模型分享链接">model</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Release Plan (Coming Soon)
 
 - [ ] Stage-1 restoration-guided pretraining code & checkpoints
