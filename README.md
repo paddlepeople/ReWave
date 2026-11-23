@@ -11,13 +11,14 @@
 
 The official results in the paper:
 
+The official results in the paper:
+
 <table>
   <thead>
     <tr>
       <th rowspan="2" align="center">Models</th>
-      <th colspan="3" align="center">Val, AP<sub>3D|R40</sub></th>
       <th colspan="3" align="center">Test, AP<sub>3D|R40</sub></th>
-      <th rowspan="2" align="center">Log</th>
+      <th colspan="3" align="center">Test, AP<sub>BEV|R40</sub></th>
       <th rowspan="2" align="center">Checkpoint</th>
     </tr>
     <tr>
@@ -32,14 +33,13 @@ The official results in the paper:
   <tbody>
     <tr>
       <td align="center">MonoDGP</td>
-      <td align="center">30.7624%</td>
-      <td align="center">22.3421%</td>
-      <td align="center">19.0144%</td>
-      <td align="center">26.35%</td>
-      <td align="center">18.72%</td>
-      <td align="center">15.97%</td>
-      <td align="center"><a href="logs/train.log">log</a></td>
-      <td align="center"><a href="https://drive.google.com/你的模型分享链接">model</a></td>
+      <td align="center">23.63%</td>
+      <td align="center">15.85%</td>
+      <td align="center">13.15%</td>
+      <td align="center">32.63%</td>
+      <td align="center">21.54%</td>
+      <td align="center">19.03%</td>
+      <td align="center"><a href="[https://drive.google.com/你的模型分享链接](https://pan.baidu.com/s/1au9_-rJdZTFczhOUUzHN5w?pwd=ywi9)">model</a></td>
     </tr>
   </tbody>
 </table>
