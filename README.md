@@ -39,7 +39,7 @@ The official results in the paper:
       <td align="center">32.63%</td>
       <td align="center">21.54%</td>
       <td align="center">19.03%</td>
-      <td align="center"><a href="[https://drive.google.com/你的模型分享链接](https://pan.baidu.com/s/1au9_-rJdZTFczhOUUzHN5w?pwd=ywi9)">model</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1au9_-rJdZTFczhOUUzHN5w?pwd=ywi9">model</a></td>
     </tr>
   </tbody>
 </table>
