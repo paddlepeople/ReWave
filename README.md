@@ -7,9 +7,6 @@
 ## Overview
 
 ![架构示意图](figure/figure2.png)
-![KITTI结果](figure/ReWave_MonoDLGD.png)
-
-The official results in the paper:
 
 The official results in the paper:
 
@@ -32,7 +29,7 @@ The official results in the paper:
   </thead>
   <tbody>
     <tr>
-      <td align="center">MonoDGP</td>
+      <td align="center">ReWave+MonoDLGD</td>
       <td align="center">23.63%</td>
       <td align="center">15.85%</td>
       <td align="center">13.15%</td>
@@ -43,6 +40,10 @@ The official results in the paper:
     </tr>
   </tbody>
 </table>
+
+Test results submitted to the official KITTI Benchmark:
+
+![KITTI结果](figure/ReWave_MonoDLGD.png)
 
 ## Release Plan (Coming Soon)
 
