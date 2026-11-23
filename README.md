@@ -8,7 +8,7 @@ Official repository for **"ReWave: A Fog-Robust Feature Extractor for Monocular 
 
 **ReWave** is a restoration-guided wavelet feature extractor designed for fog-robust monocular 3D object detection. By combining multi-scale wavelet subband modulation with two-stage restoration-guided pretraining, ReWave improves 3D detection robustness and inference efficiency under foggy conditions while serving as a plug-and-play backbone replacement.
 
-![Overview of the ReWave]figure/figure2.png
+![架构示意图](figure/figure2.png)
 
 ## Release Plan (Coming Soon)
 
