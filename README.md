@@ -40,7 +40,7 @@ The official results in the paper:
       <td align="center">21.54%</td>
       <td align="center">19.03%</td>
       <td align="center"><a href="https://pan.baidu.com/s/1bi9EPukEAg3G_4W8x4ahGQ?pwd=d7bu">WERN</a></td>
-      <td align="center"><a href="https://pan.baidu.com/s/1au9_-rJdZTFczhOUUzHN5w?pwd=ywi9">ReWave+MonoDLGD</a></td>
+      <td align="center"><a href="https://pan.baidu.com/s/1HQpCHbMaaMB8JVe-42cQtQ?pwd=2mj9">ReWave+MonoDLGD</a></td>
     </tr>
   </tbody>
 </table>
